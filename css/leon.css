@@ -1,0 +1,16 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+  font-family: "Work Sans", sans-serif;
+}
+
+.parent{
+  background-color: red;
+}
+.container{
+  width: 800px;
+  margin: auto;
+}
